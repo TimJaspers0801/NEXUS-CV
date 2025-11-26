@@ -16,8 +16,6 @@ This repository aims to gather publications, code and datasets produced by our g
 * **Anatomy recognition & segmentation** — semantic segmentation and anatomy detection work.
 * **Phase recognition** — surgical phase detection / temporal modelling work.
 
-Each entry contains: title, short citation, and two editable links: **Paper** and **Code**.
-
 ---
 
 # Publications
