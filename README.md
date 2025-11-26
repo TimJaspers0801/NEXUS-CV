@@ -2,20 +2,6 @@
 
 A central place to collect our group's work on surgical computer vision: papers, code, datasets, and models.
 
-
----
-## Model zoo
-Within this repo we have reimplemented several of our surgical computer vision models for easy use. 
-within the models directory you can find the following models:
-
-| Name | Corresponding Publication | Weight | Code | Citation | 
-|------|--------------------------|--------|------|----------|
-| SurgeNetXL | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
-| SurgeNet-ConvNextv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
-| SurgeNet-PVTv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
-| SurgeNet-Eomt | MIDDLE 2026 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
-
-
 ---
 
 ## Quick intro
@@ -23,12 +9,16 @@ within the models directory you can find the following models:
 This repository aims to gather publications, code and datasets produced by our group related to surgical foundation models, anatomy recognition/segmentation, and surgical phase recognition. If you contributed to a paper listed here, please add the paper link and the repository (if available) using the placeholders.
 
 ---
+## Model zoo
+Within this repo we have reimplemented several of our surgical computer vision models for easy use. 
+within the models directory you can find the following models:
 
-## How this README is organised
-
-* **Foundation models** — large-scale / self-supervised pretraining efforts and surgical foundation models.
-* **Anatomy recognition & segmentation** — semantic segmentation and anatomy detection work.
-* **Phase recognition** — surgical phase detection / temporal modelling work.
+| Name | Corresponding Publication | Weight | Code                              | Citation | 
+|------|--------------------------|--------|-----------------------------------|----------|
+| SurgeNetXL | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/metaformer.py)      | [BibTeX](bibtex-link-here) |
+| SurgeNet-ConvNextv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/convnextv2.py)      | [BibTeX](bibtex-link-here) |
+| SurgeNet-PVTv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/pvtv2.py)           | [BibTeX](bibtex-link-here) |
+| SurgeNet-Eomt | MIDDLE 2026 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
 
 ---
 
