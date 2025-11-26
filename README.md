@@ -2,6 +2,20 @@
 
 A central place to collect our group's work on surgical computer vision: papers, code, datasets, and models.
 
+
+---
+## Model zoo
+Within this repo we have reimplemented several of our surgical computer vision models for easy use. 
+within the models directory you can find the following models:
+
+| Name | Corresponding Publication | Weight | Code | Citation | 
+|------|--------------------------|--------|------|----------|
+| SurgeNetXL | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
+| SurgeNet-ConvNextv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
+| SurgeNet-PVTv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
+| SurgeNet-Eomt | MIDDLE 2026 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
+
+
 ---
 
 ## Quick intro
@@ -27,6 +41,7 @@ This repository aims to gather publications, code and datasets produced by our g
 | MIDDLE 2026          | Towards Effective Surgical Representation Learning with DINO models                                | [Paper](paper-link-here)                  | [Code](repo-link-here)                             | [BibTeX](bibtex-link-here) |
 | MedIA 2025           | Scaling up self-supervised learning for improved surgical foundation models                        | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525004190) | [Code](https://github.com/TimJaspers0801/SurgeNet) | [BibTeX](bibtex-link-here) |
 | MICCAI-DEMI 2024     | Exploring the Effect of Dataset Diversity in Self-Supervised Learning for Surgical Computer Vision | [Paper](https://arxiv.org/abs/2407.17904) | [Code](https://github.com/TimJaspers0801/SurgeNet) | [BibTeX](bibtex-link-here) |
+
 ## B. Surgical anatomy recognition & segmentation
 
 
