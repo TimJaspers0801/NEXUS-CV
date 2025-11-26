@@ -1,4 +1,4 @@
-# Surgical Computer Vision — Group Repository
+# Surgical Computer Vision
 
 A central place to collect our group's work on surgical computer vision: papers, code, datasets, and models.
 
