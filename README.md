@@ -13,26 +13,26 @@ This repository aims to gather publications, code and datasets produced by our g
 Within this repo we have reimplemented several of our surgical computer vision models for easy use. 
 within the models directory you can find the following models:
 
-| Name | Corresponding Publication | Weight | Code                              | Citation | 
-|------|--------------------------|--------|-----------------------------------|----------|
-| SurgeNetXL | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/metaformer.py)      | [BibTeX](bibtex-link-here) |
-| SurgeNet-ConvNextv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/convnextv2.py)      | [BibTeX](bibtex-link-here) |
-| SurgeNet-PVTv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/pvtv2.py)           | [BibTeX](bibtex-link-here) |
-| SurgeNet-Eomt | MIDDLE 2026 | [Weights](https://huggingface.co/TimJaspers0801/SurgeNet-Foundation-Models) | [Code](models/load_cls_models.py) | [BibTeX](bibtex-link-here) |
+| Name | Corresponding Publication | Weight                                                                                                                                         | Code                         | Citation | 
+|------|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|----------|
+| SurgeNetXL | MedIA 2025 | [Weights](https://huggingface.co/TimJaspersTue/SurgeNetModels/resolve/main/SurgeNetXL_checkpoint_epoch0050_teacher.pth?download=true)          | [Code](models/metaformer.py) | [BibTeX](bibtex-link-here) |
+| SurgeNet-ConvNextv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspersTue/SurgeNetModels/resolve/main/SurgeNet_ConvNextv2_checkpoint_epoch0050_teacher.pth?download=true) | [Code](models/convnextv2.py) | [BibTeX](bibtex-link-here) |
+| SurgeNet-PVTv2 | MedIA 2025 | [Weights](https://huggingface.co/TimJaspersTue/SurgeNetModels/resolve/main/SurgeNet_PVTv2_checkpoint_epoch0050_teacher.pth?download=true)      | [Code](models/pvtv2.py)      | [BibTeX](bibtex-link-here) |
+| SurgeNet-Eomt | MIDL 2026 | [Weights](add)                                                    | [Code](add)                  | [BibTeX](bibtex-link-here) |
 
 ---
 
 # Publications
 
-## A. Surgical foundation models
+## Surgical foundation models
 
 | Journal / Conference | Title                                                                                              | Paper                                     | Code                                               | Citation | 
-|----------------------|----------------------------------------------------------------------------------------------------| ----------------------------------------- | -------------------------------------------------- | --------- |
-| MIDDLE 2026          | Towards Effective Surgical Representation Learning with DINO models                                | [Paper](paper-link-here)                  | [Code](repo-link-here)                             | [BibTeX](bibtex-link-here) |
-| MedIA 2025           | Scaling up self-supervised learning for improved surgical foundation models                        | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525004190) | [Code](https://github.com/TimJaspers0801/SurgeNet) | [BibTeX](bibtex-link-here) |
-| MICCAI-DEMI 2024     | Exploring the Effect of Dataset Diversity in Self-Supervised Learning for Surgical Computer Vision | [Paper](https://arxiv.org/abs/2407.17904) | [Code](https://github.com/TimJaspers0801/SurgeNet) | [BibTeX](bibtex-link-here) |
+|--------------------|----------------------------------------------------------------------------------------------------| ----------------------------------------- | -------------------------------------------------- | --------- |
+| MIDL 2026          | Towards Effective Surgical Representation Learning with DINO models                                | [Paper](paper-link-here)                  | [Code](repo-link-here)                             | [BibTeX](bibtex-link-here) |
+| MedIA 2025         | Scaling up self-supervised learning for improved surgical foundation models                        | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525004190) | [Code](https://github.com/TimJaspers0801/SurgeNet) | [BibTeX](bibtex-link-here) |
+| MICCAI-DEMI 2024   | Exploring the Effect of Dataset Diversity in Self-Supervised Learning for Surgical Computer Vision | [Paper](https://arxiv.org/abs/2407.17904) | [Code](https://github.com/TimJaspers0801/SurgeNet) | [BibTeX](bibtex-link-here) |
 
-## B. Surgical anatomy recognition & segmentation
+## Surgical anatomy recognition & segmentation
 
 
 | Journal / Conference        | Title                                                                                                              | Paper                                                           | Code     | Citation                   |
@@ -44,7 +44,8 @@ within the models directory you can find the following models:
 | Surg Endosc 2023            | Deep learning-based recognition of key anatomical structures during robot-assisted minimally invasive esophagectomy | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10322962/) |          | [BibTeX](bibtex-link-here) |
 | Surg Endosc 2022            | Computer-aided anatomy recognition in intrathoracic and-abdominal surgery: a systematic review               | [Paper](https://link.springer.com/article/10.1007/s00464-022-09548-5) |          | [BibTeX](bibtex-link-here) |
 
-## C. Surgical phase recognition
+## Surgical phase recognition
+
 | Journal / Conference      | Title                                                                                         | Paper                                     | Code                   | Citation                   |
 |---------------------------| --------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------- | --------------------------- |
 | MICCAI 2025               | SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition                | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-05127-1_46) | [Code](https://github.com/IntraSurge/SemiVT-Surge) | [BibTeX](bibtex-link-here) |
