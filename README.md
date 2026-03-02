@@ -1,4 +1,4 @@
-# NEXUS Computer Vision
+# 🧠 NEXUS Computer Vision
 
 This repository contains all computer vision publications related to the NEXUS (Netherlands Ecosystem for Cross-specialty Unified Surgical intelligence) consortium.
 
@@ -19,7 +19,7 @@ Explore our complete model collection and implementation at [SurgeNet](https://g
 
 ---
 
-# Applications
+# 🛠️ Applications
 
 ## Surgical Annotation Tool
 
@@ -31,7 +31,7 @@ Explore the tool and implementation at [ATLAS-Interactive](https://github.com/rl
 
 ---
 
-# Publications
+# 📄 Publications
 
 ## Surgical foundation models
 
