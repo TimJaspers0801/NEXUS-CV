@@ -1,4 +1,4 @@
-# 🧠 NEXUS Computer Vision
+# NEXUS Computer Vision
 
 This repository contains all computer vision publications related to the NEXUS (Netherlands Ecosystem for Cross-specialty Unified Surgical intelligence) consortium.
 
