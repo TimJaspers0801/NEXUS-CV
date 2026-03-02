@@ -59,5 +59,8 @@ Explore the tool and implementation at [ATLAS-Interactive](https://github.com/rl
 | MICCAI 2025               | SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition                | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-05127-1_46) | [Code](https://github.com/IntraSurge/SemiVT-Surge) | [BibTeX](bibtex/miccai2025.bib) |
 | SPIE-Medical imaging 2024 | Benchmarking and Enhancing Surgical Phase Recognition Models for Robot-Assisted Esophagectomy | [Paper](https://arxiv.org/abs/2412.04039)                  |  | [BibTeX](bibtex/spie2024-phase-recognitioin.bib) |
 
+## 💰 Funded Projects
 
-
+Our work includes several subprojects supported by different funding sources:
+- [INTRA-SURGE](https://intrasurge.github.io/): INTelligent computeR-Aided Surgical gUidance for Robot-assisted surGEry
+- [IMAGINERS](https://www.hanarthfonds.nl/2024-call): IMAGINg-based augmentation for RobotIc-assisted lung Surgery: the IMAGINERS project for automated and intelligent surgical guidance
