@@ -4,12 +4,12 @@ This repository contains all computer vision publications related to the NEXUS (
 
 ---
 
-## Quick intro
+## ⚡ Quick intro
 
 This repository aims to gather publications, code and datasets produced by our group related to surgical foundation models, anatomy recognition/segmentation, and surgical phase recognition. 
 
 ---
-## Model zoo
+## 🦁 Model zoo
 
 We have opensourced multiple in-domain-pretrained DINOv1-3 models across various architectures including Vision Transformers (ViT), ConvNeXts, and more. These models are pretrained on **SurgeNet**, the largest reported surgical dataset to date, comprising over **4.7 million video frames** from more than **23 different procedures**. Available in different sizes, ranging from lightweight to large-scale architectures, they can be deployed for diverse surgical computer vision applications with varying computational requirements—from real-time intraoperative systems to high-accuracy offline analysis.
 
@@ -19,9 +19,9 @@ Explore our complete model collection and implementation at [SurgeNet](https://g
 
 ---
 
-# 🛠️ Applications
+## 🛠️ Applications
 
-## Surgical Annotation Tool
+### Surgical Annotation Tool
 
 **ATLAS-Interactive** is an open-source framework for clip-level anatomical segmentation in minimally invasive surgery. It combines keyframe annotation with temporal mask propagation, enabling fast, temporally consistent labeling. The tool was trained on over 100 videos, 500 clips, and 120k surgical video frames including 14 surgical procedures and 42 distinct classes.
 
@@ -31,9 +31,9 @@ Explore the tool and implementation at [ATLAS-Interactive](https://github.com/rl
 
 ---
 
-# 📄 Publications
+## 📄 Publications
 
-## Surgical foundation models
+### Surgical foundation models
 
 | Journal / Conference | Title                                                                                              | Paper                                     | Code                                               | Citation | 
 |--------------------|----------------------------------------------------------------------------------------------------| ----------------------------------------- | -------------------------------------------------- | --------- |
@@ -41,7 +41,7 @@ Explore the tool and implementation at [ATLAS-Interactive](https://github.com/rl
 | MedIA 2025         | Scaling up self-supervised learning for improved surgical foundation models                        | [Paper](https://www.sciencedirect.com/science/article/pii/S1361841525004190) | [Code](https://github.com/TimJaspers0801/SurgeNet) | [BibTeX](bibtex/media2025.bib) |
 | MICCAI-DEMI 2024   | Exploring the Effect of Dataset Diversity in Self-Supervised Learning for Surgical Computer Vision | [Paper](https://arxiv.org/abs/2407.17904) | [Code](https://github.com/TimJaspers0801/SurgeNet) | [BibTeX](bibtex/demi2025.bib) |
 
-## Surgical anatomy recognition & segmentation
+### Surgical anatomy recognition & segmentation
 
 
 | Journal / Conference        | Title                                                                                                              | Paper                                                           | Code     | Citation                   |
@@ -52,7 +52,7 @@ Explore the tool and implementation at [ATLAS-Interactive](https://github.com/rl
 | Surg Endosc 2023            | Deep learning-based recognition of key anatomical structures during robot-assisted minimally invasive esophagectomy | [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10322962/) |          | [BibTeX](bibtex/surgendoscopy2023.bib) |
 | Surg Endosc 2022            | Computer-aided anatomy recognition in intrathoracic and-abdominal surgery: a systematic review               | [Paper](https://link.springer.com/article/10.1007/s00464-022-09421-5) |          | [BibTeX](bibtex/surgendoscopy2022.bib) |
 
-## Surgical phase recognition
+### Surgical phase recognition
 
 | Journal / Conference      | Title                                                                                         | Paper                                     | Code                   | Citation                   |
 |---------------------------| --------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------- | --------------------------- |
