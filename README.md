@@ -64,3 +64,8 @@ Explore the tool and implementation at [ATLAS-Interactive](https://github.com/rl
 Our work includes several subprojects supported by different funding sources:
 - [INTRA-SURGE](https://intrasurge.github.io/): INTelligent computeR-Aided Surgical gUidance for Robot-assisted surGEry
 - [IMAGINERS](https://www.hanarthfonds.nl/2024-call): IMAGINg-based augmentation for RobotIc-assisted lung Surgery: the IMAGINERS project for automated and intelligent surgical guidance
+
+## 💬 Contact us
+E-mail:
+- r.l.p.d.d.jong@tue.nl
+- t.j.m.jaspers@tue.nl
