@@ -57,7 +57,7 @@ Explore the tool and implementation at [ATLAS-Interactive](https://github.com/rl
 | Journal / Conference      | Title                                                                                         | Paper                                     | Code                   | Citation                   |
 |---------------------------| --------------------------------------------------------------------------------------------- | ----------------------------------------- | ---------------------- | --------------------------- |
 | MICCAI 2025               | SemiVT-Surge: Semi-Supervised Video Transformer for Surgical Phase Recognition                | [Paper](https://link.springer.com/chapter/10.1007/978-3-032-05127-1_46) | [Code](https://github.com/IntraSurge/SemiVT-Surge) | [BibTeX](bibtex/miccai2025.bib) |
-| SPIE-Medical imaging 2024 | Benchmarking and Enhancing Surgical Phase Recognition Models for Robot-Assisted Esophagectomy | [Paper](https://arxiv.org/abs/2412.04039)                  |  | [BibTeX](bibtex/spie2024-phase-recognitioin.bib) |
+| SPIE-Medical imaging 2024 | Benchmarking and Enhancing Surgical Phase Recognition Models for Robot-Assisted Esophagectomy | [Paper](https://arxiv.org/abs/2412.04039)                  | [Code (Causal-Transformer)](https://github.com/Yipinggggg/SurgPhaseBench) | [BibTeX](bibtex/spie2024-phase-recognitioin.bib) |
 
 ## 💰 Funded Projects
 
